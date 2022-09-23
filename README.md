@@ -6,6 +6,8 @@
 
 C# Firebase Authentication Sample Project
 
+Purpose of this repo is to explore the Firebase C# SDK, specifically the AUTH and User management capabilities.
+
 **System  Design**
 
 ![image](https://user-images.githubusercontent.com/3706993/191887059-37e312d8-19d5-4a6e-979b-66afb6779f6d.png)
