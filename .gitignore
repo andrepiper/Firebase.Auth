@@ -1,0 +1,8 @@
+/Firebase.Auth.Services/bin
+/Firebase.Auth.Services/obj
+/Firebase.Auth.Middleware/bin
+/Firebase.Auth.Middleware/obj
+/Firebase.Auth/bin
+/Firebase.Auth/obj
+/Firebase.Auth/firebase_app_settings.json
+/.vs
