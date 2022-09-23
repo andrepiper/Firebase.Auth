@@ -1,5 +1,4 @@
-﻿using Firebase.Auth.Services.Common;
-using Firebase.Auth.Services.Interfaces;
+﻿using Firebase.Auth.Services.Interfaces;
 using FirebaseAdmin;
 using FirebaseAdmin.Auth;
 using Google.Apis.Auth.OAuth2;
@@ -45,6 +44,11 @@ namespace Firebase.Auth.Services.Implementation
 
             return await defaultAuth.CreateUserAsync(args);
 
+        }
+
+        public async Task<UserRecord> RetrieveUser(string email)
+        {
+            return await FirebaseAuth.DefaultInstance.GetUserByEmailAsync(email);
         }
     }
 }

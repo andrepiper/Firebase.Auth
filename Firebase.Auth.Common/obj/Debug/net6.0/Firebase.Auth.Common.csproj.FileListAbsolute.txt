@@ -1,0 +1,12 @@
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\bin\Debug\net6.0\Firebase.Auth.Common.deps.json
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\bin\Debug\net6.0\Firebase.Auth.Common.dll
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\bin\Debug\net6.0\Firebase.Auth.Common.pdb
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\obj\Debug\net6.0\Firebase.Auth.Common.csproj.AssemblyReference.cache
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\obj\Debug\net6.0\Firebase.Auth.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\obj\Debug\net6.0\Firebase.Auth.Common.AssemblyInfoInputs.cache
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\obj\Debug\net6.0\Firebase.Auth.Common.AssemblyInfo.cs
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\obj\Debug\net6.0\Firebase.Auth.Common.csproj.CoreCompileInputs.cache
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\obj\Debug\net6.0\Firebase.Auth.Common.dll
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\obj\Debug\net6.0\refint\Firebase.Auth.Common.dll
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\obj\Debug\net6.0\Firebase.Auth.Common.pdb
+C:\Users\AndrePiper\source\repos\Firebase.Auth\Firebase.Auth.Common\obj\Debug\net6.0\ref\Firebase.Auth.Common.dll

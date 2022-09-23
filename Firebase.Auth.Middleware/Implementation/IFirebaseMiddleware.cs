@@ -1,4 +1,4 @@
-﻿using Firebase.Auth.Services.Common;
+﻿using Firebase.Auth.Common;
 using FirebaseAdmin.Auth;
 using System;
 using System.Collections.Generic;
@@ -10,6 +10,7 @@ namespace Firebase.Auth.Middleware.Implementation
 {
     public interface IFirebaseMiddleware
     {
+        Task<BackendResponse<UserRecord>> RetrieveUser(string email);
         Task<BackendResponse<UserRecord>> CreateUser(
             string username,
             string password,

@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebase.Auth.Services", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebase.Auth.Middleware", "Firebase.Auth.Middleware\Firebase.Auth.Middleware.csproj", "{1608CE81-D859-4A4B-8E7F-446FC91EC563}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebase.Auth.Api", "Firebase.Auth.Api\Firebase.Auth.Api.csproj", "{5425BE99-9642-4F9D-A9C9-DFEEC4DB7C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebase.Auth.Common", "Firebase.Auth.Common\Firebase.Auth.Common.csproj", "{93FC27B3-423F-4B46-981D-CA5D9F6C186E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{1608CE81-D859-4A4B-8E7F-446FC91EC563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1608CE81-D859-4A4B-8E7F-446FC91EC563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1608CE81-D859-4A4B-8E7F-446FC91EC563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5425BE99-9642-4F9D-A9C9-DFEEC4DB7C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5425BE99-9642-4F9D-A9C9-DFEEC4DB7C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5425BE99-9642-4F9D-A9C9-DFEEC4DB7C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5425BE99-9642-4F9D-A9C9-DFEEC4DB7C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FC27B3-423F-4B46-981D-CA5D9F6C186E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FC27B3-423F-4B46-981D-CA5D9F6C186E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FC27B3-423F-4B46-981D-CA5D9F6C186E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FC27B3-423F-4B46-981D-CA5D9F6C186E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

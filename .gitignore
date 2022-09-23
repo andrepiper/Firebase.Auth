@@ -6,3 +6,6 @@
 /Firebase.Auth/obj
 /Firebase.Auth/firebase_app_settings.json
 /.vs
+/Firebase.Auth.Api/bin
+/Firebase.Auth.Api/obj
+/Firebase.Auth.Api/firebase_app_settings.json
