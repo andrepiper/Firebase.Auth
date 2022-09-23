@@ -12,7 +12,7 @@ Purpose of this repo is to explore the Firebase C# SDK, specifically the AUTH an
 
 ![image](https://user-images.githubusercontent.com/3706993/191887059-37e312d8-19d5-4a6e-979b-66afb6779f6d.png)
 
-![image](https://user-images.githubusercontent.com/3706993/191887095-efdb745c-6e22-450f-8420-6c7583b16cbc.png)
+![image](https://user-images.githubusercontent.com/3706993/191965855-1b0f2de3-ccfc-417c-8bd6-42c0b6545112.png)
 
 
 In this repo I explore the Firebase C# SDK to build web apps with .NET core 6.0.
